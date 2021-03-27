@@ -1,7 +1,7 @@
 # startpage
 startpage for the webbroswer
 
-# use of startpage
+# set the startpage as startpage
 download
 - download the style.css and index.html.
 - for the backgroundpicture choose a jpg file. rename it to 'picture.jpg'.
