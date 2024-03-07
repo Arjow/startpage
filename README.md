@@ -1,7 +1,7 @@
-** startpage
+# startpage
 startpage for the webbroswer
 
-# set the startpage as startpage
+## set the startpage as startpage
 download
 - download the style.css and index.html.
 - for the backgroundpicture choose a jpg file. rename it to 'picture.jpg'.
@@ -13,7 +13,7 @@ settings in firefox:
 - new windows and tabs
 - click on custom url's  and paste a file url in the textfield such as : 'file:///C:/index.html' (in windows)
 
-# change the url's of the startpage
+## change the url's of the startpage
 - open the index.html file
 - look at the bookmark section.
 - change the link and the name of a url:
