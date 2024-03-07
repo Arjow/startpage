@@ -1,4 +1,4 @@
-# startpage
+** startpage
 startpage for the webbroswer
 
 # set the startpage as startpage
